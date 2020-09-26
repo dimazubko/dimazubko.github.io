@@ -44,8 +44,8 @@ railway.addTo(map);
 center.addTo(map);
 
 // Adding pop-up to the marker
-cfu.bindPopup('КФУ им. В.И. Вернадского');
-home.bindPopup('Casa dolce casa');
-rectal.bindPopup('Военкомат');
-railway.bindPopup('Ж/Д вокзал');
-center.bindPopup('Центр города');
+cfu.bindPopup('<b>КФУ им. В.И. Вернадского</b>');
+home.bindPopup('<b>Casa dolce casa</b>');
+rectal.bindPopup('<b>Военкомат</b>');
+railway.bindPopup('<b>Ж/Д вокзал</b>');
+center.bindPopup('<b>Центр города</b>');
